@@ -6,6 +6,8 @@ public class myMint {
 		// TODO Auto-generated method stub
 		
 		System.out.println("first output");
+		
+		System.out.println("second output");
  
 	}
 
